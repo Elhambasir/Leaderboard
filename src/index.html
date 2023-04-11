@@ -1,12 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
 </head>
+
 <body>
-  <h1>Hello World</h1>
+  <main>
+    <header>
+      <h1>Leaderboard</h1>
+    </header>
+    <section class="container">
+      <div class="recent-score">
+        <div class="title">
+          <h1>Recent scores</h1>
+          <button>Refresh</button>
+        </div>
+        <div class="scores">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>100</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="add-score">
+        <h1>Add your score</h1>
+        <form action="">
+          <div class="inputs">
+            <input type="text" name="name" id="name" placeholder="Your name">
+          </div>
+          <div class="inputs">
+            <input type="text" name="score" id="score" placeholder="Your score">
+          </div>
+          <div class="submit-button">
+            <input type="submit" name="submit" id="submit" value="Submit">
+          </div>
+        </form>
+      </div>
+    </section>
+    <footer>
+    </footer>
+  </main>
 </body>
+
 </html>
