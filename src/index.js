@@ -11,7 +11,7 @@ userFormInput.addEventListener('submit', (e) => {
   const gameUser = document.getElementById('name').value;
   const gameUserScore = document.getElementById('score').value;
 
-  fetch('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/gzCLQEnZzEwmtdAjWrCL/scores/', {
+  fetch('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/knTJZuTqnS5CkT6fKiMm/scores/', {
     method: 'POST',
     body: JSON.stringify({
       user: gameUser,
@@ -28,3 +28,4 @@ userFormInput.addEventListener('submit', (e) => {
 
   userFormInput.reset();
 });
+window.onload = Ranks.displayRanks;

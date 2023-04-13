@@ -3,7 +3,7 @@ const Ranks = {
   displayRanks: () => {
     const getApiResponse = async () => {
       const response = await fetch(
-        'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/gzCLQEnZzEwmtdAjWrCL/scores/',
+        'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/knTJZuTqnS5CkT6fKiMm/scores/',
         {
           method: 'GET',
         },

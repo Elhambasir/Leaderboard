@@ -7,7 +7,7 @@
   <h3><b>Leaderboard</b></h3>
 </div>
 
-<h1>Leaderboard part 1</h1>
+<h1>Leaderboard</h1>
 
 <!-- TABLE OF CONTENTS -->
 
