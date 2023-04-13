@@ -1,7 +1,3 @@
-.hello {
-  color: red;
-}
-
 body {
   margin: 0;
   box-sizing: border-box;
@@ -12,10 +8,16 @@ button:hover {
 }
 
 main {
-  width: 90%;
+  width: 50%;
   margin: 0 auto;
   margin-top: 5rem;
-  padding: 1rem;
+  padding: 1rem 0 0 0;
+  border: 1px solid rgb(129, 243, 224);
+  box-shadow: 2px 2px 2px 0.9px;
+}
+
+header h1 {
+  margin-left: 1rem;
 }
 
 section.container {
@@ -40,6 +42,7 @@ div.recent-score {
 div.title {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   width: 100%;
   height: 30px;
 }
@@ -51,6 +54,7 @@ div.title h1 {
 div.title button {
   font-weight: bold;
   color: black;
+  border: 1px solid rgb(154, 240, 243);
 }
 
 div.scores {
@@ -58,16 +62,13 @@ div.scores {
 }
 
 div.scores table {
-  border: 1px solid rgb(4, 61, 4);
+  border: 1px solid rgb(154, 240, 243);
   width: 100%;
+  padding: 5px;
 }
 
-div.scores table tr td:nth-child(1) {
-  width: 50px;
-}
-
-div.scores table tr:nth-child(even) {
-  background-color: #d6eeee;
+table tr:nth-child(odd) {
+  background-color: #c9ecec;
 }
 
 div.add-score {
@@ -93,24 +94,30 @@ div.add-score form {
 
 div.inputs input {
   padding: 5px;
+  border: 1px solid rgb(154, 240, 243);
+}
+
+div.submit-button input {
+  width: 100%;
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid rgb(154, 240, 243);
+}
+
+div.inputs input:focus {
+  outline: 1px solid rgb(154, 240, 243);
 }
 
 div.submit-button {
   text-align: right;
 }
 
-div.submit-button input {
-  font-weight: bold;
-  cursor: pointer;
-}
-
 footer {
-  width: 100%;
-  border: 1px solid black;
-  position: fixed;
-  height: 50px;
-  bottom: 0;
+  position: sticky;
   left: 0;
-  background-color: lightgray;
-  margin: 0 auto;
+  bottom: 0;
+  width: 100%;
+  background-color: lightblue;
+  color: white;
+  text-align: center;
 }
