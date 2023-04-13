@@ -70,7 +70,7 @@ div.scores table {
   padding: 5px;
 }
 
-table tr:nth-child(odd){
+table tr:nth-child(odd) {
   background-color: #c9ecec;
 }
 
