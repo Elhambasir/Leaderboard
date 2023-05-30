@@ -2,12 +2,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-
   <h3><b>Leaderboard</b></h3>
 </div>
-
-<h1>Leaderboard</h1>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -126,7 +122,6 @@ functionality as described in the following video:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-### Hi, there, I'm Basir - aka [Full Stack Developer] [Check my portfolio](https://elhambasir.github.io/MyPortfolio/)
 
 To get a local copy up and running, follow these steps.
 
@@ -189,12 +184,12 @@ This project is deployed at github pages you can clone it here. [Please click to
 👤 **Basir Elham**
 
 - GitHub: [@githubhandle](https://github.com/Elhambasir)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/basir-ahmadi-8aba89263)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/basirelhamahmadi)
 - Email: elham1378basir@gmail.com
   <br>
  👤 **Abdi Bekele**
 - GitHub: [Abdi Bekele](https://github.com/Lul-Abdifan)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdi-bekele-a63860254/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hope2023)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
