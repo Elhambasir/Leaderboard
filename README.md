@@ -2,12 +2,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-
   <h3><b>Leaderboard</b></h3>
 </div>
-
-<h1>Leaderboard part 1</h1>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -189,12 +185,12 @@ This project is deployed at github pages you can clone it here. [Please click to
 👤 **Basir Elham**
 
 - GitHub: [@githubhandle](https://github.com/Elhambasir)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/basir-ahmadi-8aba89263)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/basirelhamahmadi)
 - Email: elham1378basir@gmail.com
   <br>
  👤 **Abdi Bekele**
 - GitHub: [Abdi Bekele](https://github.com/Lul-Abdifan)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdi-bekele-a63860254/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hope2023)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
