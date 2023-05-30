@@ -170,7 +170,7 @@ Run Github Actions Test
 
 ### Deployment
 
-This project is deployed at github pages you can clone it here. [Please click to clone](https://github.com/Elhambasir/Leaderboard.git)
+[See it live](https://elhambasir.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
